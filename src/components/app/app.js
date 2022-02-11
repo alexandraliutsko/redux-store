@@ -1,5 +1,5 @@
 import React from "react";
-import {NavLink, Route, Routes} from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import HomePage from "../pages/home-page";
 import CartPage from "../pages/cart-page";
 import ShopHeader from "../shop-header/shop-header";
